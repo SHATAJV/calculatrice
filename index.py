@@ -1,5 +1,5 @@
 
 
 print("hello")
-print( "python")
+print("python")
 print("world")
